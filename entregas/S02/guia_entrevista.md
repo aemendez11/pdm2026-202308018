@@ -1,44 +1,49 @@
-# Mapa de empatía — {Nombre o alias del entrevistado}
+# Guia de entrevista
+- ¿Alguna vez has llegado tarde a la universidad?
 
-> **Cómo usar esta plantilla:** copia este archivo una vez por entrevistado (`mapa_empatia_1.md`, `mapa_empatia_2.md`). Cada viñeta lleva un marcador: **[CITA]** = palabras exactas de la persona, entre comillas · **[INF]** = tu interpretación (sin comillas). Mínimo **3 viñetas por zona** y al menos **1 [CITA] por zona**. Lo que no salió de la entrevista, no va. Borra las líneas de ejemplo (las que empiezan con _Ej:_).
+- ¿Te acordás de la última vez que llegaste tarde y qué fue lo que pasó ese día?
 
-## Datos de la entrevista
+- ¿Y porque despertaste tarde?
 
-|Campo|Dato|
-|---|---|
-|Estudiante (carnet)||
-|Tema elegido||
-|Entrevistado (nombre o alias)||
-|¿Por qué es usuario real del tema?||
-|Fecha y duración||
-|Evidencia (archivo en `entrevistas/`)||
+- ¿Habías puesto alguna alarma?
 
-## 🗣️ DICE — lo que dijo en voz alta
+- ¿Y Entonces qué pasó o no la escuchaste?
 
-- [CITA] _Ej: "Cada fin de quincena ya no sé en qué se me fue el dinero."_
+- ¿Eso te pasa seguido o solo de vez en cuando?
 
-## 🧠 PIENSA — lo que cree y no dice
+- ¿Entonces qué haces para tratar de evitar llegar tarde?
 
-- [INF] _Ej: Cree que llevar cuentas es de gente ordenada, y él no se ve así._
+- ¿Por qué la pones veinte minutos antes?
 
-## 🏃 HACE — comportamientos concretos que describió
+- ¿Y por qué no le decís a alguien de tu casa que te despierte?
 
-- [CITA] _Ej: "Le tomo captura al voucher y la dejo en la galería."_
+- ¿Qué haces?
 
-## ❤️ SIENTE — emociones que mostró o nombró
+- ¿Has pensado que llegar tarde te ha afectado en algo?
 
-- [CITA] _Ej: "Me da pena preguntar en qué se fue el dinero de la casa."_
+-¿Qué  consideras que es lo que más influye para que a veces llegues tarde?
 
-## ⚡ DOLORES — frustraciones, miedos, obstáculos
+- ¿Usted se considera que es una persona puntual?
 
-- [INF] _Ej: Le frustra registrar gastos a mano; lo abandona a la semana._
+- ¿Y alguna vez ha estado a punto de llegar tarde a algo importante?
 
-## 🎁 GANANCIAS — qué sería "ganar" para esta persona
+- ¿Qué fue lo que pasó ese día?
 
-- [INF] _Ej: Llegar a fin de mes sabiendo cuánto puede gastar sin culpa._
+- ¿Y la doctora la atendió de una vez?
 
-## Cierre
+- ¿Ay no, tan así? ¿Y que pensó cuando vio que ya había mucho tiempo de espera?
 
-**La frase que más se me quedó (cita textual):**
+- ¿Pero Le dijeron por qué se había atrasado?
 
-**Lo que yo asumía antes de la entrevista y resultó distinto:**
+- ¿Qué pasa?
+
+- ¿Siempre sale con tiempo cuando tiene alguna cita importante?
+
+- ¿Le ha pasado perder una cita por llegar tarde?
+
+- ¿en dónde más cree usted que la puntualidad es importante?
+
+
+
+
+
